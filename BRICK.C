@@ -120,7 +120,7 @@ void main()
 
 			putimage(x,y, BUFFER1, XOR_PUT);
 			win++;
-			if(win == 4)
+			if(win == 5)
 			{
 				winner();
 			}
